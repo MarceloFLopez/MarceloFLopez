@@ -7,7 +7,7 @@
 - 🌱 Estou estudando Java
 - 💬 Pergunte sobre mim
 - 📫 Contate me: marceloferreiralopez@gmail.com
-- 😄 Pronomes: ele/ela
+
 
 <div >
   <a href="https://github.com/MarceloFLopez"></a>
