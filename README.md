@@ -9,10 +9,10 @@
 - 📫 Contate me: marceloferreiralopez@gmail.com
 - 😄 Pronomes: ele/ela
 
-<div align:center>
+<div align="center">
   <a href="https://github.com/MarceloFLopez"></a>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
