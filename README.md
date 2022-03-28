@@ -8,7 +8,7 @@
 - 💬 Pergunte sobre mim
 - 📫 Contate me: marceloferreiralopez@gmail.com
 
-<div>
+<div allign="center">
   <a href="https://github.com/MarceloFLopez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=gotham"/>
@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/marcelo-ferreira-lopez-180970a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
- 
+
 </div>
           
