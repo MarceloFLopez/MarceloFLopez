@@ -1,9 +1,9 @@
-### Ola, 
+### Ola, eu sou
 
 **MarceloFLopez/MarceloFLopez** 
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho como estagiário em desenvolvimento back-end
 - 🌱 Estou estudando Java
 - 💬 Pergunte sobre mim
 - 📫 Contate me: marceloferreiralopez@gmail.com
