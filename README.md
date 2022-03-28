@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=gotham"/>
 </div>
- 
+ <div><h2>Técnologias que uso no meu dia!</h2></div>
   <div style="display: inline_block"><br>  
   <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
