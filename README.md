@@ -18,7 +18,7 @@
 </div>
   <br>
   
- <div><h2>Técnologias que uso no meu dia!</h2></div>
+ <div><h2>Técnologias</h2></div>
   <div style="display: inline_block"><br>  
   <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
