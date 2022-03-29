@@ -30,8 +30,9 @@
   <img align="center" alt="Apache" height="55" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
   <img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
      
-          <div><h2>Redes Sociais</h2></div>
+          
 </div>  
+<div><h2>Redes Sociais</h2></div>
 <br>
 <div >
   <a href="https://instagram.com/marceloferreiralopez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
