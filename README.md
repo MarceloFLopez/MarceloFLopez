@@ -25,10 +25,10 @@
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MySQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Hibernate" height="70" width="120" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
-  <img align="center" alt="Apache" height="70" width="120" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
-  <img align="center" alt="GitHub" height="70" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Hibernate" height="55" width="90" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
+  <img align="center" alt="Apache" height="55" width="90" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
+  <img align="center" alt="GitHub" height="55" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
      
           
 </div>  
