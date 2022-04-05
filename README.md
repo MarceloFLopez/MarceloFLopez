@@ -3,10 +3,9 @@
 <h1 font-family="Arial">Marcelo Lopez</h1>
 
 
-- 🔭 Hoje trabalho como estagiário em desenvolvimento back-end
-- 🌱 Estou estudando Java
-- 💬 Pergunte sobre mim
-- 📫 Contate me: marceloferreiralopez@gmail.com
+- 🔭 Atualmente trabalho como estagiário em desenvolvimento
+- 🌱 Linguagem de programação: Java
+- 📫 Contate me: marceloferreiralopez@gmail.com<br>
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <div><h2>Sratus</h2></div>
 <div allign="center">
