@@ -28,7 +28,7 @@
   <img align="center" alt="Hibernate" height="55" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
   <img align="center" alt="Apache" height="55" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
   <img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="GitHub" height="55" width="70" src="https://icon-icons.com/pt/icone/github-logo/143772">   
+ 
           
 </div>  
 <div><h2>Redes Sociais</h2></div>
