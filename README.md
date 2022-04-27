@@ -28,14 +28,14 @@
   
   <div><h2>Técnologias Back-End</h2></div>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Hibernate" height="55" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
-  <img align="center" alt="Apache" height="55" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
+  <img align="center" alt="Hibernate" height="70" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
+  <img align="center" alt="Apache" height="70" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
  
   
  <div><h2>Banco de Dados</h2></div>
  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
  <img align="center" alt="MongoDB" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt="MongoDB" height="55" width="70" src="https://icongr.am/devicon/heroku-original.svg?size=125&color=611111"> 
+ <img align="center" alt="Hiroku" height="55" width="70" src="https://icongr.am/devicon/heroku-original.svg?size=125&color=611111"> 
   
   
  <div><h2>Repositórios</h2></div>
