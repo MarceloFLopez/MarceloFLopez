@@ -26,12 +26,12 @@
    <img align="center" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Hibernate" height="55" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
-  <img align="center" alt="Apache" height="55" width="70" src=" https://icongr.am/devicon/apache-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Apache" height="55" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
  
   <img align="center" alt="Git" height="55" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="MongoDB" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   
-  https://www.vectorlogo.zone/logos/apache/apache-official.svg"
+ 
           
 </div>  
 <div><h2>Redes Sociais</h2></div>
