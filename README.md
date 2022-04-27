@@ -35,11 +35,13 @@
  <div><h2>Banco de Dados</h2></div>
  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
  <img align="center" alt="MongoDB" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="center" alt="MongoDB" height="55" width="70" src="https://icongr.am/devicon/heroku-original.svg?size=125&color=611111"> 
+  
   
  <div><h2>Repositórios</h2></div>
  <img align="center" alt="Git" height="55" width="70" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">
  <img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-   <img align="center" alt="GitHub" height="55" width="70" src="https://icones.pro/en/github-icon-logo-symbol-png-orange.png">
+
   
   
   
