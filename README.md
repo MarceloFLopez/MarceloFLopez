@@ -27,7 +27,6 @@
   <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Hibernate" height="55" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
   <img align="center" alt="Apache" height="55" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
-  <img align="center" alt="GitHub" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Git" height="55" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   
           
