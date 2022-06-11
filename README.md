@@ -31,9 +31,11 @@
   
   
   <div><h2>Técnologias Back-End</h2></div>
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Hibernate" height="70" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
-  <img align="center" alt="Apache" height="70" width="70" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
+  <img align="center" alt="Springboot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Java" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Hibernate" height="85" width="95" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
+  <img align="center" alt="Apache" height="85" width="95" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
+  
  
   
  <div><h2>Banco de Dados</h2></div>
