@@ -3,7 +3,7 @@
 <h1 font-family="Arial">Marcelo Lopez</h1>
 
 
-- 🔭 Atualmente trabalho como estagiário em desenvolvimento
+- 🔭 Atualmente em busca de uma oportunidade
 - 🌱 Linguagem de programação: Java/Sprinboot
 - 📫 Contate me: marceloferreiralopez@gmail.com<br>
 
@@ -11,11 +11,11 @@
 <div><h2>Sratus</h2></div>
 <div allign="center">
   <a href="https://github.com/MarceloFLopez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="160em" width="" src="https://github-readme-stats.vercel.app/api?username=MarceloFLopez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
    
 </div>
   <div><h2></h2></div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloFLopez&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
   <br>
@@ -25,7 +25,8 @@
  
    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-     <img align="center" alt="CSS" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="JS" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="JS" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   
 
  
