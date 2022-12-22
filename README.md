@@ -22,6 +22,8 @@
    <img align="center" alt="CSS" height="50" width="60" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
    <img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+    <a target="_blank" href="https://icons8.com/icon/iWpVsSkAqPpZ/thymeleaf"/>
+ <img align="center" alt="Boot" height="60" width="60" src="https://img.icons8.com/color/48/null/thymeleaf.png">
    <br> <br>      
   </div>
   
