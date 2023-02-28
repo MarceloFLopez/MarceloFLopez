@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente em busca de uma oportunidade
-- 🌱 Linguagem de programação: Java/Sprinboot
+- 💻 Linguagem de programação: Java/Sprinboot
 - 📫 Contate me: marceloferreiralopez@gmail.com<br>
 - 📝 Curriculo: https://marceloflopez.github.io/portifolio/
 
