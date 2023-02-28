@@ -1,7 +1,6 @@
-### Ola, eu sou
 
-<h1 font-family="Arial">Marcelo Lopez</h1>
-
+👋 Ola, eu sou <h1 font-family="Arial">Marcelo F Lopez  <img align="center" height="40" width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif ">
+</h1>
 
 - 🔭 Atualmente em busca de uma oportunidade
 - 💻 Linguagem de programação: Java/Sprinboot
