@@ -2,8 +2,8 @@
 👋 Ola, eu sou <h1 font-family="Arial">Marcelo F Lopez  <img align="center" height="40" width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif ">
 </h1>
 
-- 🔭 Atualmente em busca de uma oportunidade
-- 💻 Linguagem de programação: Java/Sprinboot
+- 🔭 Atualmente em busca de uma oportunidade para me tornar um programad back-end Java
+- 💻 Linguagem de programação: Java / Sprinboot
 - 📫 Contate me: marceloferreiralopez@gmail.com<br>
 - 📝 Curriculo: https://marceloflopez.github.io/portifolio/
 
